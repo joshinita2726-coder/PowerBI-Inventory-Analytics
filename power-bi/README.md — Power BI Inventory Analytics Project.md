@@ -288,6 +288,3 @@ The project helped me gain practical exposure to the complete process of transfo
 
 ---
 
-## 📬 Connect With Me
-
-If you are interested in discussing **Data Analytics, Power BI, SQL, or Business Intelligence**, feel free to connect with me on LinkedIn.
